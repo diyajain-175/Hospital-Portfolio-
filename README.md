@@ -117,19 +117,6 @@ Hospital-Portfolio/
 - Contact Management
 
 ---
-
-# 📸 Project Preview
-
-> Add screenshots here:
-
-- 🏠 Landing Page
-- 🏥 Hospital Details
-- 📅 Appointment Page
-- 📊 Admin Dashboard
-- 👨‍⚕️ Hospital Management
-
----
-
 # 🚀 Future Enhancements
 
 - Online Payment Integration
@@ -157,11 +144,3 @@ Hospital-Portfolio/
 # 👩‍💻 Author
 
 **Diya Jain**
-
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile *(Optional)*
-
----
-
-⭐ If you like this project, consider giving it a Star.
